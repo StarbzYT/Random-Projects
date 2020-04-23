@@ -1,4 +1,4 @@
 # Codeme
-Coding Projects
-Here is where I have created different fun programming projects.
+Coding Projects:
+I have created many different fun coding projects.
 Enjoy!
