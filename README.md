@@ -1,3 +1,4 @@
+# for discount app
 1. [x] Look for a website to scrape
 2. [x] Copy URL (for scraping)
 3. [x] Make a Python file
