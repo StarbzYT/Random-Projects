@@ -55,7 +55,7 @@ class Covid:
             # commit changes and close connection to database
             connection.commit()
             connection.close()
-            print("The data has been transfered to the database!")
+            print("The data has been transferred to the database!")
         else:
             print("That is not the password! GOODBYE!")
 
